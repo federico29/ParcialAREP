@@ -7,7 +7,7 @@ Se construyó un servicio que calcula el arcoseno y el logaritmo de un número e
 ## Instalación
 Copiar este repositorio y compilarlo:
 ```
-$ git clone urlrepositorio
+$ git clone https://github.com/federico29/ParcialAREP
 $ mvn package
 ```
 
