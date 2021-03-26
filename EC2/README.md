@@ -12,6 +12,18 @@ Probando el logaritmo de 2:
 
 ## Imagen en Docker-Hub
 [https://hub.docker.com/repository/docker/fede2906b/parcial](https://hub.docker.com/repository/docker/fede2906b/parcial).
+
+## Ejecutar pruebas
+Para ejecutar las pruebas ejecute el siguiente comando:
+```
+$ mvn test
+```
+
+## Documentación
+Generar la documentación del proyecto:
+```
+$ mvn javadoc:javadoc
+```
 ## Construido con
 - Maven
 - Java
