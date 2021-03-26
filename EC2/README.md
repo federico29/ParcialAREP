@@ -1,4 +1,13 @@
 # Código desplegado en EC2 utilizando Docker
+## Funcionamiento
+Probando el arcoseno de 1:
+![](img/demo1.png)
+![](img/demo2.png)
+
+Probando el logaritmo de 2:
+![](img/demo3.png)
+![](img/demo4.png)
+
 ## Imagen en Docker-Hub
 [https://hub.docker.com/repository/docker/fede2906b/parcial](https://hub.docker.com/repository/docker/fede2906b/parcial).
 ## Construido con
