@@ -1,4 +1,8 @@
-# Verificación de conocimientos: AREP-Tercio 2
+# Ejercicio práctico: AREP-Tercio 2
+Se construyó un servicio que calcula el arcoseno y el logaritmo de un número el servicio está desplegado en una instancia de EC2 y también está desplegado con API Gateway utilizando AWS Lambda.
+
+## Video de demostración
+[https://youtu.be/cALlQs63XRo](https://youtu.be/cALlQs63XRo)
 
 ## Instalación
 Copiar este repositorio y compilarlo:
@@ -6,10 +10,6 @@ Copiar este repositorio y compilarlo:
 $ git clone urlrepositorio
 $ mvn package
 ```
-
-## Video de demostración
-[https://youtu.be/cALlQs63XRo](https://youtu.be/cALlQs63XRo)
-
 
 ## Ejecutar pruebas
 Para ejecutar las pruebas ejecute el siguiente comando:
