@@ -1,6 +1,10 @@
 # Ejercicio práctico: AREP-Tercio 2
 Se construyó un servicio que calcula el arcoseno y el logaritmo de un número el servicio está desplegado en una instancia de EC2 y también está desplegado con API Gateway utilizando AWS Lambda.
 
+### Código desplegado en EC2
+[https://github.com/federico29/ParcialAREP/tree/master/EC2](https://github.com/federico29/ParcialAREP/tree/master/EC2)
+### Código desplegado con API Gateway utilizando Lambda
+[https://github.com/federico29/ParcialAREP/tree/master/Lambda%20y%20API%20Gateway](https://github.com/federico29/ParcialAREP/tree/master/Lambda%20y%20API%20Gateway)
 ## Video de demostración
 [https://youtu.be/cALlQs63XRo](https://youtu.be/cALlQs63XRo)
 
