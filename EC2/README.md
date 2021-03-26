@@ -1,13 +1,19 @@
 # Código desplegado en EC2 utilizando Docker
 ## Funcionamiento
-Probando el arcoseno de 1:
+Probando el arcoseno de 2, falla porque el dominio de la función arcoseno el [-1, 1]:
 
 ![](img/demo1.png)
+
+Probando el arcoseno de 1:
+
 ![](img/demo2.png)
+
+Probando el logaritmo de -2, falla porque el dominio de la función log el (0, inf]:
+
+![](img/demo3.png)
 
 Probando el logaritmo de 2:
 
-![](img/demo3.png)
 ![](img/demo4.png)
 
 ## Imagen en Docker-Hub
