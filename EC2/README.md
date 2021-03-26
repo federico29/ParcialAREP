@@ -1,26 +1,4 @@
-# Verificación de conocimientos: AREP-Tercio 2
-
-## Instalación
-Copiar este repositorio y compilarlo:
-```
-$ git clone urlrepositorio
-$ mvn package
-```
-
-## Ejemplo botón heroku
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://fathomless-coast-19607.herokuapp.com/hello)
-
-## Ejecutar pruebas
-Para ejecutar las pruebas ejecute el siguiente comando:
-```
-$ mvn test
-```
-
-## Documentación
-Generar la documentación del proyecto:
-```
-$ mvn javadoc:javadoc
-```
+# Código desplegado en EC2 utilizando Docker
 
 ## Construido con
 - Maven
