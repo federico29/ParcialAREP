@@ -1,14 +1,15 @@
 # Verificación de conocimientos: AREP-Tercio 2
-
+## Funcionamiento
+Probando el arcoseno de 1:
+![](img/demo1.png)
+Probando el logaritmo de 2:
+![](img/demo2.png)
 ## Instalación
 Copiar este repositorio y compilarlo:
 ```
 $ git clone urlrepositorio
 $ mvn package
 ```
-
-## Ejemplo botón heroku
-[![Deployed to Heroku](https://www.herokucdn.com/deploy/button.png)](https://fathomless-coast-19607.herokuapp.com/hello)
 
 ## Ejecutar pruebas
 Para ejecutar las pruebas ejecute el siguiente comando:
