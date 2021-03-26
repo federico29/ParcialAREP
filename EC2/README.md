@@ -1,5 +1,6 @@
 # Código desplegado en EC2 utilizando Docker
-
+## Imagen en Docker-Hub
+[https://hub.docker.com/repository/docker/fede2906b/parcial](https://hub.docker.com/repository/docker/fede2906b/parcial).
 ## Construido con
 - Maven
 - Java
