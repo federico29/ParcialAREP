@@ -2,6 +2,7 @@
 ## Funcionamiento
 Probando el arcoseno de 1:
 ![](img/demo1.png)
+
 Probando el logaritmo de 2:
 ![](img/demo2.png)
 ## Instalación
