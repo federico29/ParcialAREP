@@ -22,7 +22,7 @@ $ mvn test
 ```
 
 ## Documentación
-Generar la documentación del proyecto:
+Generar la documentación del proyecto desde el directorio ParcialAREP/EC2/ o ParcialAREP/Lambda y API Gateway/:
 ```
 $ mvn javadoc:javadoc
 ```
